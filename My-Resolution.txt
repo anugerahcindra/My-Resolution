@@ -1,4 +1,6 @@
 My Resolution
 - fokus selama mengikuti program bootcamp di Haltev untuk crossing pengalaman
 - memperkuat bahasa pemrograman yang sudah dipelajari(perintah/tag dan logika)
-- konsisten latihan membuat web sederhana atau latihan adopsi web
+- konsisten latihan membuat web sederhana/latihan adopsi web
+- Cari referensi praktek lapangan/untuk mencari pengalaman
+- Kolaborasi dengan tutor/expert di bidang web development
