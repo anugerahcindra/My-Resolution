@@ -7,3 +7,4 @@ Rencana setelah selesai Haltev
 - memperdalam dan memperbanyak bahasa pemrograman
 - update tentang perkembangan dunia IT
   * artificial intelegence
+  * bahasa pemrograman baru
