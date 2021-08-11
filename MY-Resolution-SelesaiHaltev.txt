@@ -1,7 +1,7 @@
 Rencana setelah selesai Haltev
 - cari referensi tentang web development yang banyak
   * tanya tutor
-  * tanya partner bootcamp
+  * tanya orang yang berpengalaman kerja IT
 - coba lamar perusahaan/startup di bidang IT
 - memperdalam dan memperbanyak bahasa pemrograman
 - update tentang perkembangan dunia IT
